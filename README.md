@@ -1,8 +1,21 @@
 ## Olá ! Sou Victor Dutra 
 
-<div align="center">
-  <a href="https://github.com/escovask8">
-   <a href="https://github.com/escovask8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escovask8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="escovask8's github stats" /></a> <a href="https://github.com/escovask8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escovask8&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
+I'm a self-taught passionate Backend developer from Brazil 🇮🇳
+
+**About me**
+
+- 💼 Support TI at [Sogamax](http://sogamax.com.br/)
+
+- ❤️ I love writing Java, TypeScript and etc, building fun projects
+
+- 💬 Ask me about anything [here](https://github.com/escovask8/escovask8/issues)
+
+
+
+| <a href="https://github.com/escovask8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escovask8&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="escovask8's github stats" /></a> | <a href="https://github.com/escovask8/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escovask8&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
 <div style="display: inline_block"><br>
@@ -24,6 +37,5 @@
    <a href = "mailto:domagal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-dutra-oliveira-1876ba39/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/escovask8/escovask8/blob/output/github-contribution-grid-snake.svg)
  
 </div>

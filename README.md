@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/escovask8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=escovask8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escovask8&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://github.com/escovask8/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=escovask8&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="escovask8's github stats" /></a> <a href="https://github.com/escovask8/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escovask8&layout=compact&theme=buefy&hide_border=true" /></a> 
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -24,6 +24,6 @@
    <a href = "mailto:domagal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-dutra-oliveira-1876ba39/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/escovask8/escovask8/blob/output/github-contribution-grid-snake.svg)
  
 </div>

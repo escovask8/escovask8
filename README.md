@@ -2,7 +2,7 @@
 
 
 
-I'm a self-taught passionate Backend developer from Brazil 🇮🇳
+I'm a self-taught passionate Backend developer from Brazil
 
 **About me**
 

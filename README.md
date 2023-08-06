@@ -6,9 +6,9 @@ I'm a self-taught passionate Backend developer from Brazil
 
 **About me**
 
-- 💼 Support TI at [Sogamax](http://sogamax.com.br/)
+- 💼 Analist at [TCS](https://www.tcs.com/)
 
-- ❤️ I love writing Java, TypeScript and etc, building fun projects
+- ❤️ I love writing C#, Java, TypeScript and etc, building fun projects
 
 - 💬 Ask me about anything [here](https://github.com/escovask8/escovask8/issues)
 

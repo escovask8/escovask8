@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escovask8&label=Profile%20views&color=0e75b6&style=flat" alt="escovask8" /> </p>
 
-- 🔭 I’m currently working on [TCS](BFSI)
+- 🔭 I’m currently working on [NTTData](BFSI)
 
 - 💬 Ask me about **Java, Sql, C#, AspNet, Python and others**
 
